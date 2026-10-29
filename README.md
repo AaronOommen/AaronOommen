@@ -20,5 +20,5 @@
 
 
 ### 📫 Connect With Me
-* **LinkedIn:** [://linkedin.com](www.linkedin.com/in/aaronrejioommen)
+* **LinkedIn:** www.linkedin.com/in/aaronrejioommen
 * **Email:** aaron.oommen@xaviers.edu.in
