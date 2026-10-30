@@ -12,7 +12,7 @@
 
 ### 📂 Featured Projects
 
-#### 🧬 [FASTA Gene Sequence Analyser](https://github.com)
+#### 🧬 [FASTA Gene Sequence Analyser](https://github.com/AaronOommen/Fasta-DNA-Sequence-Analyser)
 *Built a small automated bioinformatic analytical tool utilizing **BioPython** to process large-scale multi-FASTA files.*
 * **Key Features:** Computes GC content, sequence length, nucleotide count, translated protein sequence, and their reverse complement sequence which is stored and kept as a csv file which can be analyzed later on.
 * **Tech Stack:** Python, BioPython, Pandas.
